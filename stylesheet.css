@@ -1,0 +1,82 @@
+.pets{
+margin-left: -20px;
+}
+.sidebar {
+
+    color: white;
+    background: #1e2939;
+    padding-top: 40px;
+    width: 370px;
+}
+body {
+    font-family: "Montserrat", sans-serif;
+    color: #1e2939;
+    background: #e5e5e5;
+    max-width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    overflow-x: scroll;
+}
+aside{
+    padding-left: 10px;
+    padding-right:10px;
+}
+.main-part {
+    text-align: justify;
+   border-color: #1e2939;
+    border-style: solid;
+    padding-left: 10px ;
+    padding-right: 20px;
+}
+a {
+    text-decoration: none;
+}
+
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 40px;
+    max-width: 1200px;
+}
+
+
+
+.aboutUser {
+    margin-bottom: 40px;
+}
+
+
+.project-link:hover {
+    color: #1284a5;
+}
+
+.projects-bracket {
+    color: #828282;
+}
+
+.work h4, .education h3, .sidebar h3 {
+    font-weight: 700;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+
+.sidebar a {
+    color: #2D9CDB;
+}
+
+.sidebar ul {
+    padding-left: 20px;
+}
+
+.skills-item .soft-skills-txt {
+    font-weight: 500;
+    font-size: 16px;
+    color: #ffffff;
+
+}
+
+
+
+
